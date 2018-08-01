@@ -18,10 +18,10 @@ public class scramble {
 		Arrays.sort(b);
 		Arrays.sort(c);
 		Arrays.sort(d);
-		System.out.println(a);
-		System.out.println(b);
-		System.out.println(c);
-		System.out.println(d);
+// 		System.out.println(a);
+// 		System.out.println(b);
+// 		System.out.println(c);
+// 		System.out.println(d);
 		if(Arrays.equals(a,c) && Arrays.equals(b,d))
 			System.out.println("Yes");
 		else
