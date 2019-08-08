@@ -55,6 +55,7 @@ class PossibleString
 		 String input1=r.nextLine();
 		 String input2=r.nextLine();
 		 String output=identifyPossibleWords(input1,input2);
+		System.out.println();
 		 System.out.println(output);
 				 
 	}
